@@ -1,2 +1,5 @@
 # Mail Dispenser Bot
- A simple mailing bot !
+ A simple bulk mailing bot!
+ 
+ # Demo
+ 
