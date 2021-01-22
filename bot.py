@@ -4,7 +4,7 @@ import smtplib
 from email.message import EmailMessage
 
 MAIL_ID = "validlogbot@gmail.com"
-PASSWORD = "maildispenser101"
+PASSWORD = "maildispensesresad"
 
 # ? Read the file
 data = pd.read_excel(
